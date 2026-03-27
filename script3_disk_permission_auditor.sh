@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 3: Disk and Permission Auditor
-# Author: [Your Name] | Registration: [Your Roll Number]
+# Author: Sumit Kumar Sah| Registration: 24MIM10255
 # Course: Open Source Software | Chosen Software: Python
 # Description: Loops through key system directories and reports disk usage and
 #              permissions. Also checks Python's specific config directories.
