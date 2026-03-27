@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 4: Log File Analyzer
-# Author: [Your Name] | Registration: [Your Roll Number]
+# Author: Sumit Kumar Sah| Registration: 24MIM10255
 # Course: Open Source Software | Chosen Software: Python
 # Description: Reads a log file line by line, counts keyword occurrences,
 #              and prints a summary with the last 5 matching lines.
