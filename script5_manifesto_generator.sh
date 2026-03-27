@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 5: Open Source Manifesto Generator
-# Author: [Your Name] | Registration: [Your Roll Number]
+# Author: Sumit Kumar Sah| Registration: 24MIM10255
 # Course: Open Source Software | Chosen Software: Python
 # Description: Interactively asks the user three questions and generates a
 #              personalised open-source philosophy statement saved to a .txt file.
