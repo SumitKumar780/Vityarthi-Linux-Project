@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 2: FOSS Package Inspector
-# Author: [Your Name] | Registration: [Your Roll Number]
+# Author: Sumit Kumar Sah | Registration: 24MIM10255
 # Course: Open Source Software | Chosen Software: Python
 # Description: Checks if a package is installed, displays version and license
 #              details, and prints a philosophy note using a case statement.
