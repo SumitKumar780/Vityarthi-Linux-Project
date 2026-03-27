@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # Script 1: System Identity Report
-# Author: [Your Name] | Registration: [Your Roll Number]
+# Author: [Sumit Kumar Sah] | Registration: [24MIM10255]
 # Course: Open Source Software | Chosen Software: Python
 # Description: Displays a system welcome screen with OS, kernel, user, uptime,
 #              and license information relevant to the open source audit.
